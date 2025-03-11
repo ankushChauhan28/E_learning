@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aao Sikhe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_desc">Choose your preferred language</string>
+    <string name="apply">Apply</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_desc">Choose your preferred theme</string>
+    <string name="theme_light">Light Mode</string>
+    <string name="theme_dark">Dark Mode</string>
+    <string name="theme_system">System Default</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_content">We are dedicated to making learning accessible, flexible, and engaging for everyone. Our e-learning platform offers a wide range of courses designed for learners at all levels. With interactive lessons, expert instructors, and personalized learning paths, we aim to empower individuals to achieve their educational and professional goals.</string>
+    <string name="about_us_join">Join us and turn learning into a rewarding journey!</string>
+    <string name="support_title">Support</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="faq_help">FAQ/Help Center</string>
+    <string name="contact_info">Contact Information</string>
+    <string name="email_support">Email: support@creativelearn.com</string>
+    <string name="phone_support">Phone: +1-800-123-4567</string>
+    <string name="hours_support">Hours: Monday-Friday, 9:00 AM - 6:00 PM</string>
+</resources>

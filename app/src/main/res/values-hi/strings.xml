@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">आओ सीखें</string>
+    <string name="navigation_drawer_open">नेविगेशन ड्रॉवर खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉवर बंद करें</string>
+    <string name="settings_language">भाषा</string>
+    <string name="settings_language_desc">अपनी पसंदीदा भाषा चुनें</string>
+    <string name="apply">लागू करें</string>
+    <string name="settings_theme">थीम</string>
+    <string name="settings_theme_desc">अपनी पसंदीदा थीम चुनें</string>
+    <string name="theme_light">लाइट मोड</string>
+    <string name="theme_dark">डार्क मोड</string>
+    <string name="theme_system">सिस्टम डिफ़ॉल्ट</string>
+</resources> 
